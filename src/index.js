@@ -36,5 +36,4 @@ class App extends Component {
   }
 }
 
-//test 2
 render(<App />, document.querySelector('#root'));
